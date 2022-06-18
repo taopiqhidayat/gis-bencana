@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fbfbfb;
+}
+
+#map {
+    width: 100%;
+    height: 400px;
+}
